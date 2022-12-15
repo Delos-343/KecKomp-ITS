@@ -1,0 +1,11 @@
+1,2,3,4,choice
+D01,Overcast,35,Strong,No
+D02,Sunny,25,Weak,Yes
+D03,Sunny,25,Strong,No
+D04,Overcast,25,Weak,Yes
+D05,Rain,25,Strong,No
+D06,Rain,30,Weak,No
+D07,Overcast,35,Weak,No
+D08,Rain,25,Weak,No
+D09,Sunny,30,Weak,No
+D10,Overcast,25,Strong,Yes
